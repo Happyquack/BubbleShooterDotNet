@@ -5,7 +5,7 @@ A revision of a classic
 
 This project is essentially an effort to not only have a standalone version of [bubble shooter dot net](https://www.bubbleshooter.net), but to also improve upon it, mainly in efficiency. 
 
-Perks of a standalone edition are that advertisements or other games cannot accidentally be clicked on, the game can be accessed offline (if in application form), and portability/synergy with LiveSplit.
+Perks of a standalone edition are that advertisements or other games cannot accidentally be clicked on, the game can be accessed offline (if in application form), and interactions with LiveSplit or other applications.
 
 Improvements are, but not limited to:
 - Faster runtime
